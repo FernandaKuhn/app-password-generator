@@ -9,7 +9,7 @@ export default function Home() {
 
         <View style={styles.container}>
 
-            <View style={styles.logoContainer}>
+            <View style={[styles.logoContainer, { width: 150, height: 150 }]}>
                 <BatLogo />
             </View>
 
