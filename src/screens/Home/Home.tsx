@@ -14,9 +14,7 @@ export default function Home() {
             </View>
 
             <Text>Password Generator!aaaaaaaaaaaaaa</Text>
-            <Text>Password Generator!aaaaaaaaaaaaaa</Text>
-            <Text>Password Generator!aaaaaaaaaaaaaa</Text>
-            <Text>Password Generator!aaaaaaaaaaaaaa</Text>
+
             <StatusBar style="auto" />
         </View>
     );
