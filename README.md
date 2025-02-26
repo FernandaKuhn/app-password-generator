@@ -29,7 +29,7 @@ Android Studio (para emulador Android) ou Xcode (para iOS)
 
 ## Clone o repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone 
 
 Acesse a pasta do projeto:
 
