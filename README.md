@@ -8,17 +8,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ⚛️ React Native
 
-🔥 Firebase (se aplicável)
-
 🧩 React Navigation
 
-💅 Styled Components (ou outra biblioteca de estilização)
+💅 Styled Components
 
-⚙️ Outros pacotes necessários
-
-📷 Capturas de Tela
-
-Adicione aqui algumas imagens ou GIFs do aplicativo em funcionamento.
 
 🛠️ Instalação e Execução
 
