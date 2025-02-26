@@ -7,9 +7,9 @@ import { StatusBar } from "expo-status-bar";
 export default function Home() {
     return (
 
-        <View style={styles.container}>
+        <View style={styles.appContainer}>
 
-            <View style={[styles.logoContainer, { width: 150, height: 150 }]}>
+            <View style={[styles.logoContainer]}>
                 <BatLogo />
             </View>
 
