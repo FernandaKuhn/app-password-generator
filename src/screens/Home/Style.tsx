@@ -17,7 +17,12 @@ const styles = StyleSheet.create({
         marginBottom: 60,
         paddingTop: 20,
         paddingBottom: 10,
-        backgroundColor: '#3b3b3b1f'
+        backgroundColor: '#3b3b3b1f',
+    },
+    inputContainer: {
+        width: '80%',
+        alignItems: 'center',
+        flexDirection: 'column'
     }
 });
 
