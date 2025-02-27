@@ -3,7 +3,7 @@ import { Text, View } from "react-native";
 import styles from "./Style";
 import { BatLogo } from "../../components/BatLogo/BatLogo";
 import { StatusBar } from "expo-status-bar";
-import { BatTextInput } from "../../components/BatTextInput/BatTextInput";
+import { BatButton } from "../../components/BatButton/BatButton";
 
 export default function Home() {
     return (
@@ -14,7 +14,7 @@ export default function Home() {
                 <BatLogo />
             </View>
             <View style={[styles.inputContainer]}>
-                <BatTextInput />
+                <BatButton />
             </View>
 
             <Text>Password Generator!aaaaaaaaaaaaaa</Text>
