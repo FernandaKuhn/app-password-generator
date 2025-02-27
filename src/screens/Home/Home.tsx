@@ -17,7 +17,7 @@ export default function Home() {
                 <BatButton />
             </View>
 
-            <Text>Password Generator!aaaaaaaaaaaaaa</Text>
+            <Text>Password Generator!</Text>
 
             <StatusBar style="light" />
         </View>
