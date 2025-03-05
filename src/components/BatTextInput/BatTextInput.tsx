@@ -11,7 +11,7 @@ export function BatTextInput(props: BatTextInputProps) {
     return (
 
         <TextInput style={styles.inputer}
-            placeholder='pass'
+            placeholder='password'
             value={props.pass}
         />
     );

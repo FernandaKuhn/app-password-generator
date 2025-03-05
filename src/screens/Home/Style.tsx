@@ -12,6 +12,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         justifyContent: 'center',
         borderColor: '#3b3b3b1f',
+        boxShadow: '0 0 5px #8b10c4, 0 0 5px #8b10c4, 0 0 5px #8b10c4',
         alignSelf: 'center',
         borderWidth: 2,
         marginBottom: 60,
